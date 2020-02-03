@@ -1,1 +1,1 @@
-# hugo-jekyll
+# hugo-minima-project
